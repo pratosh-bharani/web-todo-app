@@ -1,6 +1,9 @@
-new task
-new task1
-new task12
-new task123
-new task1234
-new task12345
+New Todo
+Workout
+Eat
+Hydrate
+Research Unis
+New task
+Add new task
+New task
+New task
